@@ -137,7 +137,7 @@ switch($accion)
 		
 		/*Ley de Coulomb*/
 		case 'LCAhorcado':
-			include("LCAhorcado.php");
+			include("ahorcado.php");
 			break;
 			
 		case 'LCTrivia':

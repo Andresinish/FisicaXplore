@@ -14,23 +14,21 @@
             <div class="column xl-12">
                 <h1 class="page-title">
                     <span class="page-title__small-type text-pretitle">Contact</span>
-                    Get In Touch
+                    Ley de Coulomb
                 </h1>                            
             </div>
         </div>
     </section> <!--pageheader -->  
 
-    <section class="s-pagecontent pagecontent">
+    <section id = "hola" class="s-pagecontent pagecontent">
 
         <div class="row pageintro">
             <div class="column xl-6 lg-12">
-                <h2 class="text-display-title">Let's take your business to the next level.</h2>
+                <h2 class="text-display-title">Campo electrico</h2>
             </div>
             <div class="column xl-6 lg-12 u-flexitem-x-right">
                 <p class="lead">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias eos quas blanditiis, quos sint nostrum fugit aperiam 
-                inventore optio itaque molestias corporis, ipsa tenetur eligendi nihil iste porro, natus culpa consequuntur. Maxime, 
-                corporis tempore. Sed tenetur veritatis velit recusandae eum, molestiae voluptate ducimus laudantium esse illo. 
+                    Un objeto con  carga eléctrica establece un campo de fuerza alrededor de él; este campo de fuerza se conoce como campo eléctrico. 
                 </p>
             </div>                       
         </div> <!-- pageintro -->   
@@ -104,7 +102,7 @@
                         <div class="contact-block">
                             <h6>Phone</h6>
                             <ul class="contact-list">
-                                <li><a href="tel:197-543-2345">+197 543 2345</a></li>
+                                <li><a href="#hola">+197 543 2345</a></li>
                                 <li><a href="tel:197-123-9876">+197 123 9876</a></li>
                             </ul>
                         </div>

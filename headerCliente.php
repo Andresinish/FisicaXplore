@@ -54,7 +54,10 @@
                         <li><a href="?accion=contact">Contact</a></li>
 
 
-                        <li><a href="?accion=ejemplo">Ejemplo</a></li>
+                        <li><a href="?accion=trivia">Trivia</a></li>
+                        <li><a href="?accion=ejercicios&ID_Ejercicio=1&ID_Tema=1">Ejercicio</a></li>
+                        <li><a href="?accion=ejercicioss&ID_Ejercicio=12&ID_Tema=3">Ejercicio</a></li>
+                        <li><a href="?accion=ejerciciosss&ID_Ejercicio=5&ID_Tema=2">Ejercicio</a></li>
                     </ul> <!-- s-header__menu-links -->
 
                     <div class="s-header__contact">

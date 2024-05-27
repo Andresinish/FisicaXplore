@@ -3221,7 +3221,7 @@ td:last-child {
 }
 
 .s-header__logo img {
-    width: var(--logo-width);
+    width: 150px;
     margin: 0;
     vertical-align: bottom;
 }
@@ -3249,6 +3249,13 @@ td:last-child {
     padding-left: 0;
 }
 
+.s-header__menu-links li {
+    position: relative;
+    padding-left: 0;
+	font-size: medium;
+}
+
+
 .s-header__menu-links a {
     display: block;
     font-family: var(--font-1);
@@ -3258,6 +3265,7 @@ td:last-child {
     color: var(--color-2-lightest);
     padding: 0 1.2rem;
     transition-property: color, background-color;
+	font-size: x-large;
 }
 
 .s-header__menu-links a:focus,

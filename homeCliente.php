@@ -93,7 +93,7 @@
                         </div> <!-- end s-about__content-main -->
 
                         <div class="s-about__content-btn grid-section-split__bottom">
-                            <a href="about.html" class="btn btn--stroke u-fullwidth">Más sobre nosotros</a>
+                            
 
                             <ul class="s-about__social social-list">
                                 <li>

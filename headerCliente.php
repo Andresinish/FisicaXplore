@@ -40,7 +40,7 @@
             <div class="s-header__block">
                 <div class="s-header__logo">
                     <a class="logo" href="?accion=">
-                        <img src="images/logo.svg" alt="Homepage">
+                        <img src="images/Logo.png" alt="Homepage">
                     </a>
                 </div>
 
